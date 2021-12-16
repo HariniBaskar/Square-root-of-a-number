@@ -10,7 +10,7 @@ To write a program to find the square root of a number.
 ## Algorithm
 1. Define a function.
 2. Assign number_iters = 10 in the function to perform 10 iteratios.
-3. Set b = x.
+3. Set b = x
 4. Calculate  x = 0.5 * (x+b/x) for 10 iterations.
 5. Print x
 
