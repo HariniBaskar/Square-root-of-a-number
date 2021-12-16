@@ -9,10 +9,10 @@ To write a program to find the square root of a number.
 
 ## Algorithm
 1. Define a function.
-2. Assign number_iters = 100 in the function to perform 100 iteratios.
-3. Set i = 0.
-4. Calculate  number = 0.5 * (number + a / number) for 100 iterations.
-5. Return number
+2. Assign number_iters = 10 in the function to perform 10 iteratios.
+3. Set b = x.
+4. Calculate  x = 0.5 * (x+b/x) for 10 iterations.
+5. Print x
 
 ## Program:
 ```
